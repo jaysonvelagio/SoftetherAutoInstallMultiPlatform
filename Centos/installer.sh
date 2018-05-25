@@ -10,7 +10,6 @@
 #Login with root permission or execute #sudo su
 #Script start
 #--------------------------------------------------
-#
 #Updating centos version
 cd /root
 yum update -y
