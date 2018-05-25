@@ -4,7 +4,7 @@
 * An open source VPN project from University of Tsukuba Japan<br />
 * Centos 6 or 7 x64
 * Debian 8 (jessie) (Debian 9 (stretch) x64 compatibility issue - compilation error)
-* Ubuntu 14, 15, 16, 17 x64
+* Ubuntu 14, 15, 16 x64
 # Instruction<br />
 Choose your desired platform folder<br />
 Download installer.sh using wget or transfer to your root directory using ftp<br /><br />
