@@ -1,6 +1,6 @@
 #--------------------------------------------------
 #Softether auto install script
-#Centos 7
+#Debian and Ubuntu
 #Created May 25, 2018
 #Latest Softether Server Version for May 2018
 #Coded by Jayson Velagio
