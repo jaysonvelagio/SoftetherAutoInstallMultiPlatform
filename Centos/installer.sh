@@ -34,6 +34,7 @@ mv vpn-server.sh /etc/init.d/vpnserver
 cd /etc/init.d/
 chmod 755 vpnserver
 chkconfig --add vpnserver
+clear
 /etc/init.d/vpnserver start
 cd /usr/local/vpnserver
 echo ---------------------------------------------
