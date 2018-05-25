@@ -24,3 +24,4 @@ chmod +x installer.sh
 
 For debian and ubuntu
 WILL UPDATE SCRIPT
+
