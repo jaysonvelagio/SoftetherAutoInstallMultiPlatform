@@ -8,7 +8,7 @@
 Choose your desired platform folder<br />
 Download installer.sh using wget or transfer to your root directory using ftp<br /><br />
 
-* Install wget first For centos and fedora<br /><br />
+* Install wget first For centos and fedora<br />
 $ sudo yum install wget -y<br /><br />
 
 Download and install the installer.sh by executing the commands below<br /><br />
