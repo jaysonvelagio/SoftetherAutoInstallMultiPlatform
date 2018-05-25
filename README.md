@@ -18,14 +18,14 @@ $ sudo yum install wget -y<br /><br />
 * For centos and fedora<br />
 $ wget https://raw.githubusercontent.com/jaysonvelagio/SoftetherAutoInstallMultiPlatform/master/Centos/installer.sh<br />
 $ chmod +x installer.sh<br />
-$ ./install.sh<br /><br />
-Enter 1 three times to proceed on compilation
+$ ./install.sh<br />
+Enter 1 three times to proceed on compilation<br /><br />
 
 * For debian and ubuntu<br />
 $ wget https://raw.githubusercontent.com/jaysonvelagio/SoftetherAutoInstallMultiPlatform/master/Debian%20and%20Ubuntu/installer.sh<br />
 $ chmod +x installer.sh<br />
 $ ./install.sh<br />
-Enter 1 three times to proceed on compilation
+Enter 1 three times to proceed on compilation<br /><br />
 
 # VPN server commands<br />
 * /etc/init.d/vpnserver start - to start<br />
