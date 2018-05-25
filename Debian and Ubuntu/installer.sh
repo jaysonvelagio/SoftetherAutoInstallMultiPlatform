@@ -37,6 +37,7 @@ cd /etc/init.d/
 chmod 755 vpnserver
 update-rc.d vpnserver defaults
 /etc/init.d/vpnserver start
+cd /usr/local/vpnserver
 echo ---------------------------------------------
 echo "VPN Server installed succesfully"
 echo "vpncmd is at /usr/local/vpnserver"
