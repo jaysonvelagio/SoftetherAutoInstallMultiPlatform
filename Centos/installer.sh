@@ -16,11 +16,15 @@ yum update -y
 yum groupinstall "development tools"
 #Downloading server files
 yum install wget -y
+clear
 wget http://www.softether-download.com/files/softether/v4.27-9666-beta-2018.04.21-tree/Linux/SoftEther_VPN_Server/64bit_-_Intel_x64_or_AMD64/softether-vpnserver-v4.27-9666-beta-2018.04.21-linux-x64-64bit.tar.gz
 tar zxf softether-vpnserver-v4.27-9666-beta-2018.04.21-linux-x64-64bit.tar.gz
+echo Server downloaded
 cd vpnserver
 #Installing server files, Manual input
 make
+clear
+echo Server compiled
 cd /root
 mv vpnserver /usr/local
 rm -rf softether-vpnserver-v4.27-9666-beta-2018.04.21-linux-x64-64bit.tar.gz
