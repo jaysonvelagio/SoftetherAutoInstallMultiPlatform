@@ -36,7 +36,6 @@ mv vpn-server.sh /etc/init.d/vpnserver
 cd /etc/init.d/
 chmod 755 vpnserver
 update-rc.d vpnserver defaults
-clear
 /etc/init.d/vpnserver start
 echo ---------------------------------------------
 echo "VPN Server installed succesfully"
