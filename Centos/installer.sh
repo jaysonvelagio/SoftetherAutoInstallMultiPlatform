@@ -20,11 +20,10 @@ wget http://www.softether-download.com/files/softether/v4.27-9666-beta-2018.04.2
 tar zxf softether-vpnserver-v4.27-9666-beta-2018.04.21-linux-x64-64bit.tar.gz
 cd vpnserver
 clear
+echo NOTE:
 echo PRESS 1 AND ENTER THREE TIMES FOR THE SERVER TO COMPILE
 #Installing server files, Manual input
 make
-clear
-echo Server compiled
 cd /root
 mv vpnserver /usr/local
 rm -rf softether-vpnserver-v4.27-9666-beta-2018.04.21-linux-x64-64bit.tar.gz
