@@ -20,7 +20,7 @@ tar zxf softether-vpnserver-v4.27-9666-beta-2018.04.21-linux-x64-64bit.tar.gz
 cd vpnserver
 #Installing server files, Manual input
 clear
-echo NOTE:
+echo  -e "\033[31;5;7mATTENTION\033[0m"
 echo PRESS 1 AND ENTER THREE TIMES FOR THE SERVER TO COMPILE
 make
 cd /root
@@ -39,7 +39,7 @@ update-rc.d vpnserver defaults
 /etc/init.d/vpnserver start
 cd /usr/local/vpnserver
 echo ---------------------------------------------
-echo "VPN Server installed succesfully"
+echo  -e "\033[32;5mVPN SERVER INSTALLED SUCCESSFULLY!\033[0m"
 echo "vpncmd is at /usr/local/vpnserver"
 echo ---------------Commands----------------------
 echo /etc/init.d/vpnserver start - to start
