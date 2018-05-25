@@ -1,4 +1,4 @@
-# SoftetherAutoInstallMultiPlatform<br />
+# Softether Auto Install Multi Platform<br />
 * Softether Auto Install Script for multi platforms<br />
 * An open source VPN project from University of Tsukuba Japan<br />
 
