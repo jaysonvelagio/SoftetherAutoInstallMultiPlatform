@@ -14,13 +14,13 @@ $ ```sudo yum install wget -y```<br /><br /></b>
 
 Download and install the installer.sh by executing the commands below<br />
 <b>For centos and fedora</b><br />
-wget https://raw.githubusercontent.com/jaysonvelagio/SoftetherAutoInstallMultiPlatform/master/Centos/installer.sh<br />
-```chmod +x installer.sh```<br />
-```./installer.sh```<br />
+$ ```wget https://raw.githubusercontent.com/jaysonvelagio/SoftetherAutoInstallMultiPlatform/master/Centos/installer.sh```<br />
+$ ```chmod +x installer.sh```<br />
+$ ```./installer.sh```<br />
 Enter 1 three times to proceed on compilation<br /><br />
 
 <b>For debian and ubuntu</b><br />
->wget https://raw.githubusercontent.com/jaysonvelagio/SoftetherAutoInstallMultiPlatform/master/Debian%20and%20Ubuntu/installer.sh<br />
+$ ```wget https://raw.githubusercontent.com/jaysonvelagio/SoftetherAutoInstallMultiPlatform/master/Debian%20and%20Ubuntu/installer.sh```<br />
 $ ```chmod +x installer.sh```<br />
 $ ```./installer.sh```<br /></b>
 Enter 1 three times to proceed on compilation<br /><br />
@@ -40,8 +40,3 @@ TCP 1194<br />
 TCP 5555<br />
 
 
-
-As Kanye West said:
-
-> We're living the future so
-> the present is our past.
