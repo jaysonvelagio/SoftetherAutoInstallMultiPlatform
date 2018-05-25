@@ -23,9 +23,7 @@ $ ```./installer.sh```<br />
 Enter 1 three times to proceed on compilation<br /><br />
 
 <b>For debian and ubuntu</b><br />
->wget 
->https://raw.githubusercontent.com/jaysonvelagio/SoftetherAutoInstallMultiPlatform/master/Debian%20and%20Ubuntu/installer.sh<br />
-
+$ ```wget https://raw.githubusercontent.com/jaysonvelagio/SoftetherAutoInstallMultiPlatform/master/Debian%20and%20Ubuntu/installer.sh```<br />
 $ ```chmod +x installer.sh```<br />
 $ ```./installer.sh```<br /></b>
 Enter 1 three times to proceed on compilation<br /><br />
@@ -45,8 +43,4 @@ TCP 1194<br />
 TCP 5555<br />
 
 
-
-<figure class="quote">
-	<blockquote>It is the unofficial force—the Baker Street irregulars.</blockquote>
-</figure>
 
