@@ -19,7 +19,7 @@ $ chmod +x installer.sh<br />
 $ ./installer.sh<br />
 Enter 1 three times to proceed on compilation<br /><br />
 
-* For debian and ubuntu<br />$ 
+* For debian and ubuntu<br />
 $ wget https://raw.githubusercontent.com/jaysonvelagio/SoftetherAutoInstallMultiPlatform/master/Debian%20and%20Ubuntu/installer.sh<br />
 $ chmod +x installer.sh<br />
 $ ./installer.sh<br /></b>
