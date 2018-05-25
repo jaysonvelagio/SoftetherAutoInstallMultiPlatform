@@ -25,5 +25,16 @@ $ chmod +x installer.sh<br />
 $ ./install.sh<br /><br />
 
 * For debian and ubuntu<br />
-$ WILL UPDATE SCRIPT<br />
+$ wget https://raw.githubusercontent.com/jaysonvelagio/SoftetherAutoInstallMultiPlatform/master/Debian%20and%20Ubuntu/installer.sh<br />
+$ chmod +x installer.sh<br />
+$ ./install.sh<br />
+
+# VPN server commands<br />
+* /etc/init.d/vpnserver start - to start<br />
+* /etc/init.d/vpnserver restart - to restart<br />
+* /etc/init.d/vpnserver stop - to stop<br /><br />
+
+* vpncmd is at /usr/local/vpnserver
+
+
 
