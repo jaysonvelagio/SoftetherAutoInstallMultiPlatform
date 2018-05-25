@@ -34,8 +34,8 @@ $ /etc/init.d/vpnserver stop - to stop<br /><br />
 
 If you can't connect to your vpn server using VPN server manager. Open this ports on your firewall dashboard if you are using Google cloud, Amazon AWS, Alibaba Cloud and Digital Ocean<br /><br />
 
-TCP 443
-TCP 992
-TCP 1194
-TCP 5555
+TCP 443<br />
+TCP 992<br />
+TCP 1194<br />
+TCP 5555<br />
 
