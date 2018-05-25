@@ -5,15 +5,13 @@
 * Debian 8 (jessie) (Not compatible with Debian 9 (stretch) x64 - compilation error)
 * Ubuntu 14, 15, 16, 17 x64
 # Instruction<br />
-
-* Choose your desired platform folder<br />
-* Download installer.sh using wget or transfer to your root directory using ftp<br /><br />
+Choose your desired platform folder<br />
+Download installer.sh using wget or transfer to your root directory using ftp<br /><br />
 
 * Install wget first For centos and fedora<br /><br />
 $ sudo yum install wget -y<br /><br />
 
-
-* Download and install the installer.sh by executing the commands below<br /><br />
+Download and install the installer.sh by executing the commands below<br /><br />
 
 * For centos and fedora<br />
 $ wget https://raw.githubusercontent.com/jaysonvelagio/SoftetherAutoInstallMultiPlatform/master/Centos/installer.sh<br />
