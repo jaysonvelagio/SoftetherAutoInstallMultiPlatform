@@ -30,7 +30,12 @@ $ /etc/init.d/vpnserver start - to start<br />
 $ /etc/init.d/vpnserver restart - to restart<br />
 $ /etc/init.d/vpnserver stop - to stop<br /><br />
 
-* vpncmd is at /usr/local/vpnserver
+* vpncmd is at /usr/local/vpnserver<br /><br />
 
+If you can't connect to your vpn server using VPN server manager. Open this ports on your firewall dashboard if you are using Google cloud, Amazon AWS, Alibaba Cloud and Digital Ocean<br /><br />
 
+TCP 443
+TCP 992
+TCP 1194
+TCP 5555
 
