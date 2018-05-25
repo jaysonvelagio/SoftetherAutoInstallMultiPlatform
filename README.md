@@ -4,7 +4,7 @@
 * Centos 6 or 7 x64
 * Debian 8 (jessie) (Not compatible with Debian 9 (stretch) x64 - compilation error)
 * Ubuntu 14, 15, 16, 17 x64
-# Instruction<br /><br />
+# Instruction<br />
 
 * Choose your desired platform folder<br />
 * Download installer.sh using wget or transfer to your root directory using ftp<br /><br />
