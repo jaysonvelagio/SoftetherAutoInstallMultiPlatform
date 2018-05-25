@@ -2,7 +2,7 @@
 * Softether Auto Install Script for multi platforms<br />
 * An open source VPN project from University of Tsukuba Japan<br />
 * Centos 6 or 7 x64
-* Debian 8 (jessie) or Debian 9 (stretch) x64
+* Debian 8 (jessie) (Not compatible with Debian 9 (stretch) x64 - compilation error)
 * Ubuntu 14, 15, 16, 17 x64
 # Instruction<br /><br />
 
