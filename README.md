@@ -3,7 +3,7 @@
 * Softether VPN server latest version 4.27-9666-beta-2018.04.21
 * An open source VPN project from University of Tsukuba Japan<br />
 * Centos 6 or 7 x64
-* Debian 8 (jessie) (Not compatible with Debian 9 (stretch) x64 - compilation error)
+* Debian 8 (jessie) (Debian 9 (stretch) x64 compatibility issue - compilation error)
 * Ubuntu 14, 15, 16, 17 x64
 # Instruction<br />
 Choose your desired platform folder<br />
