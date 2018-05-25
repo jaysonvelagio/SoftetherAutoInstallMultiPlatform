@@ -14,7 +14,7 @@ $ ```sudo yum install wget -y```<br /><br /></b>
 
 Download and install the installer.sh by executing the commands below<br />
 <b>For centos and fedora</b><br />
-$ >wget https://raw.githubusercontent.com/jaysonvelagio/SoftetherAutoInstallMultiPlatform/master/Centos/installer.sh<br />
+>wget https://raw.githubusercontent.com/jaysonvelagio/SoftetherAutoInstallMultiPlatform/master/Centos/installer.sh<br />
 $ ```chmod +x installer.sh```<br />
 $ ```./installer.sh```<br />
 Enter 1 three times to proceed on compilation<br /><br />
