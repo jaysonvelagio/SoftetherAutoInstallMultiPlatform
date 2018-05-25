@@ -27,9 +27,9 @@ $ chmod +x installer.sh<br />
 $ ./install.sh<br />
 Enter 1 three times to proceed on compilation<br /><br />
 
-# VPN server commands
-$ /etc/init.d/vpnserver start - to start
-$ /etc/init.d/vpnserver restart - to restart
+# VPN server commands<br />
+$ /etc/init.d/vpnserver start - to start<br />
+$ /etc/init.d/vpnserver restart - to restart<br />
 $ /etc/init.d/vpnserver stop - to stop<br /><br />
 
 * vpncmd is at /usr/local/vpnserver
