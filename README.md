@@ -12,12 +12,12 @@ Download installer.sh using wget or transfer to your root directory using ftp<br
 * Install wget first For centos and fedora<br />
 $ ```sudo yum install wget -y```<br /><br /></b>
 
-Download and install the installer.sh by executing the commands below<br />
-<b>For centos and fedora</b> (copy all the codes below and paste on your terminal)<br />
+<b>Download and install the installer.sh by executing the commands below</b><br /><br />
+<b>For centos and fedora</b> (copy all the codes below and paste on your terminal)<br /><br />
 ``` wget https://raw.githubusercontent.com/jaysonvelagio/SoftetherAutoInstallMultiPlatform/master/Centos/installer.sh && chmod +x installer.sh && ./installer.sh ```<br /><br />
 Enter 1 three times to proceed on compilation<br /><br />
 
-<b>For debian and ubuntu</b> (copy all the codes below and paste on your terminal)<br />
+<b>For debian and ubuntu</b> (copy all the codes below and paste on your terminal)<br /><br />
 ```wget https://raw.githubusercontent.com/jaysonvelagio/SoftetherAutoInstallMultiPlatform/master/Debian%20and%20Ubuntu/installer.sh && chmod +x installer.sh && ./installer.sh```<br /><br />
 Enter 1 three times to proceed on compilation<br /><br />
 
