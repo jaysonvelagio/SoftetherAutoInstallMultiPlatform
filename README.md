@@ -14,13 +14,11 @@ $ ```sudo yum install wget -y```<br /><br /></b>
 
 Download and install the installer.sh by executing the commands below<br />
 <b>For centos and fedora</b><br />
-``` wget https://raw.githubusercontent.com/jaysonvelagio/SoftetherAutoInstallMultiPlatform/master/Centos/installer.sh && chmod +x installer.sh && ./installer.sh ```
+``` wget https://raw.githubusercontent.com/jaysonvelagio/SoftetherAutoInstallMultiPlatform/master/Centos/installer.sh && chmod +x installer.sh && ./installer.sh ```<br />
 Enter 1 three times to proceed on compilation<br /><br />
 
 <b>For debian and ubuntu</b><br />
-$ ```wget https://raw.githubusercontent.com/jaysonvelagio/SoftetherAutoInstallMultiPlatform/master/Debian%20and%20Ubuntu/installer.sh```<br />
-$ ```chmod +x installer.sh```<br />
-$ ```./installer.sh```<br /></b>
+```wget https://raw.githubusercontent.com/jaysonvelagio/SoftetherAutoInstallMultiPlatform/master/Debian%20and%20Ubuntu/installer.sh && chmod +x installer.sh && ./installer.sh```<br />
 Enter 1 three times to proceed on compilation<br /><br />
 
 # VPN server commands<br />
