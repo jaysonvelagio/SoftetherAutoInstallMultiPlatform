@@ -15,7 +15,7 @@ cd /root
 apt-get update -y
 apt-get install build-essential -y
 #Downloading server files
-wget http://www.softether-download.com/files/softether/v4.27-9667-beta-2018.05.26-tree/Linux/SoftEther_VPN_Server/64bit_-_Intel_x64_or_AMD64/softether-vpnserver-v4.27-9666-beta-2018.04.21-linux-x64-64bit.tar.gz
+wget http://www.softether-download.com/files/softether/v4.27-9666-beta-2018.04.21-tree/Linux/SoftEther_VPN_Server/64bit_-_Intel_x64_or_AMD64/softether-vpnserver-v4.27-9666-beta-2018.04.21-linux-x64-64bit.tar.gz
 tar zxf softether-vpnserver-v4.27-9666-beta-2018.04.21-linux-x64-64bit.tar.gz
 cd vpnserver
 #Installing server files, Manual input
