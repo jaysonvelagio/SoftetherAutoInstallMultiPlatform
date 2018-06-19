@@ -10,11 +10,15 @@
 ### END INIT INFO
 DAEMON=/usr/local/vpnserver/vpnserver
 LOCK=/var/lock/subsys/vpnserver
+TAP_ADDR=192.168.7.1
+
 test -x $DAEMON || exit 0
 case "$1" in
 start)
 $DAEMON start
 touch $LOCK
+sleep 1
+/sbin/ifconfig tap_soft $TAP_ADDR
 ;;
 stop)
 $DAEMON stop
@@ -24,6 +28,8 @@ restart)
 $DAEMON stop
 sleep 3
 $DAEMON start
+sleep 1
+/sbin/ifconfig tap_soft $TAP_ADDR
 ;;
 *)
 echo "Usage: $0 {start|stop|restart}"
