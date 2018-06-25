@@ -1,3 +1,4 @@
+### BEGIN INIT INFO
 #!/bin/sh
 # chkconfig: 2345 99 01
 # description: SoftEther VPN Server
@@ -23,3 +24,4 @@ echo "Usage: $0 {start|stop|restart}"
 exit 1
 esac
 exit 0
+### END INIT INFO
