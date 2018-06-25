@@ -1,7 +1,13 @@
-### BEGIN INIT INFO
 #!/bin/sh
-# chkconfig: 2345 99 01
-# description: SoftEther VPN Server
+### BEGIN INIT INFO
+# Provides:          vpnserver
+# Required-Start:    $remote_fs $syslog
+# Required-Stop:     $remote_fs $syslog
+# Default-Start:     2 3 4 5
+# Default-Stop:      0 1 6
+# Short-Description: Start daemon at boot time
+# Description:       Enable Softether by daemon.
+### END INIT INFO
 DAEMON=/usr/local/vpnserver/vpnserver
 LOCK=/var/lock/subsys/vpnserver
 test -x $DAEMON || exit 0
@@ -24,4 +30,3 @@ echo "Usage: $0 {start|stop|restart}"
 exit 1
 esac
 exit 0
-### END INIT INFO
